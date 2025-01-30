@@ -1,7 +1,7 @@
 # Generator - By Dix
 
-![Built with ❤️](https://img.shields.io/badge/Built%20with-%E2%9D%A4-FF7F00?style=for-the-badge)
-![Made with Python](https://img.shields.io/badge/Made%20with-Python-00BFFF?style=for-the-badge)
+![Built with ❤️](https://img.shields.io/badge/Built%20with-%E2%9D%A4-FF7F00?style=for-the-badge&logo=python&logoColor=white)
+![Made with Python](https://img.shields.io/badge/Made%20with-Python-00BFFF?style=for-the-badge&logo=python&logoColor=white)
 
 Welcome to **Generator - By Dix**, a tool designed to generate **Discord Nitro codes**. This repository contains an executable file that allows users to generate Nitro codes.
 
