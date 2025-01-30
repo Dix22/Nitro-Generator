@@ -23,10 +23,10 @@ To use this tool, you need the following:
 
 2. **Extract the files**:
    - Use **WinRAR** or another extraction tool to extract the contents.
-   - After extraction, you will find the executable file (`Generator.exe`).
+   - After extraction, you will find the executable file (`Generator - By Dix- v1.0.2.exe`).
 
 3. **Run the Executable**:
-   - Double-click on `Generator.exe` to start the program.
+   - Double-click on `Generator - By Dix- v1.0.2.exe` to start the program.
 
 4. **Generate a Nitro Code**:
    - The program will ask for a Discord username.
