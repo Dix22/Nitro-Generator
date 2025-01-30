@@ -39,9 +39,9 @@ To use this tool, you need the following:
 
 ## 📌 Version History
 - 1.0.2 (Latest) -
-  *Slight interface update.
-  *Added language selection option (English or Spanish).
-  *Added option 3 to the menu (Choose language).
+  - Slight interface update.
+  - Added language selection option (English or Spanish).
+  - Added option 3 to the menu (Choose language).
 - 1.0.1 - Improved code generation and stability.
 - 1.0.0 - Initial release.
 
