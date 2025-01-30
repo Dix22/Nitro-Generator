@@ -1,6 +1,6 @@
 # Generator - By Dix
 
-![Built with ❤️](https://img.shields.io/badge/Built%20with-%E2%9D%A4-FF7F00?style=for-the-badge&logo=python&logoColor=white)
+![Built with ❤️](http://forthebadge.com/images/badges/built-with-love.svg)
 ![Made with Python](https://img.shields.io/badge/Made%20with-Python-00BFFF?style=for-the-badge&logo=python&logoColor=white)
 ![Version 1.0.1](https://img.shields.io/badge/Version-1.0.1-blue?style=for-the-badge)
 
