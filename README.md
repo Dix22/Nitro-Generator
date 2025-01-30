@@ -1,1 +1,7 @@
-This is a Discord Nitro code generator that is not completely effective but works from time to time. A Robuy generator will be implemented soon
+# Generator - By Dix
+
+Welcome to **Generator - By Dix**, a tool designed to generate **Discord Nitro codes** and other utilities. This repository contains scripts that allow users to generate Nitro codes.
+
+## Features
+- Generate **Discord Nitro codes**.
+- Easy-to-use **.exe** to launch the application.
