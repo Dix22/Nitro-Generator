@@ -38,7 +38,7 @@ To use this tool, you need the following:
 - **No Internet Connection Required**: Unlike previous versions, this tool does not require a bot or online interaction. Everything is handled locally.
 
 ## 📌 Version History
-- 1.0.2 (Latest) -
+- 1.0.2 (Latest) 
   - Slight interface update.
   - Added language selection option (English or Spanish).
   - Added option 3 to the menu (Choose language).
