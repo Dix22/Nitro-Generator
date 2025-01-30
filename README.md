@@ -8,7 +8,7 @@ Welcome to **Generator - By Dix**, a tool designed to generate **Discord Nitro c
 
 ## ⚠ Notice ⚠
 
-- 🚧 The file "Generator - By Dix - v1.0.2.rar" will be available in the next few hours. We are currently finishing the final development and will upload it shortly. Thank you for your patience.
+- 🚧 The file ##"Generator - By Dix - v1.0.2.rar" will be available in the next few hours. We are currently finishing the final development and will upload it shortly. Thank you for your patience.
 
 - 📢 Stay tuned for updates!
 
