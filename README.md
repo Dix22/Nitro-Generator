@@ -49,6 +49,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you have any issues or questions, please open an issue on this repository, and we'll get back to you as soon as possible.
 Or write via Discord. "__dix22"
 
+![Deceep's GitHub]([https://avatars.githubusercontent.com/u/yourUserId?s=128&v=4]) 
+[Click here to visit my GitHub](https://github.com/Dix22))
 ---
 
 **Enjoy using the Nitro Generator!** 🚀
