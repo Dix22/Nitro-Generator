@@ -38,8 +38,13 @@ To use this tool, you need the following:
 - **No Internet Connection Required**: Unlike previous versions, this tool does not require a bot or online interaction. Everything is handled locally.
 
 ## 📌 Version History
-- **1.0.1** (Latest) - Improved code generation and stability.
-- **1.0.0** - Initial release.
+- 1.0.2 (Latest) -
+  *Slight interface update.
+  *Added language selection option (English or Spanish).
+  *Added option 3 to the menu (Choose language).
+- 1.0.1 - Improved code generation and stability.
+- 1.0.0 - Initial release.
+
 
 ## 🔮 Upcoming Updates
 🔹 **More generators** (Robux, Steam, Amazon Gift Cards,Xbox Live, Spotify etc.).  
@@ -56,9 +61,6 @@ To use this tool, you need the following:
 
 ## 🤝 Contributing
 Feel free to contribute by creating pull requests or submitting issues. Contributions that improve the tool's functionality, performance, or documentation are welcome.
-
-## 📜 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## ⚠️ Disclaimer
 - **This tool is for educational purposes only.**
