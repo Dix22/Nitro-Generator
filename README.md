@@ -58,7 +58,3 @@ If you have any issues or questions, please open an issue on this repository, an
 
 **Enjoy using the Nitro Generator!** 🚀
 
-## 🔗 Connect with Me  
-
-[![Dix22's GitHub](https://avatars.githubusercontent.com/u/95
-
